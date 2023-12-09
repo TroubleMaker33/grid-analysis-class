@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/domin.asc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/rainfall.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/InterpolationThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/InterpolationThread/InterpolationThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/PrecipitationInterpolation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/TimeSeries.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gauges.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gridCalculator_test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gridDatabase/gridDatabase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/commons-math3-3.6.1.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/mysql-connector-j-8.2.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/rain.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supportFunction/DataBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supportFunction/Grid.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supportFunction/InterpolationThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supportFunction/TimeSeries.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supportFunction/readDEM.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supportFunction/supportFunction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supportFunction/writeASC.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="apidocs  (2)">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-bsh/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-core/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-ehcache/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-gui/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-jetty/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-jgroups/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-liblinear/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-libsvm/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-lucene/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-mallet/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-stanfordpos/apidocs" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdmp-complete-0.1.1-apidocs.jar!/docs/0.1.1/jdmp-weka/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
